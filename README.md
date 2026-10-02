@@ -252,4 +252,4 @@ Speech-to-text, LLM APIs, prompt engineering, prompt-injection basics, secrets m
 
 ## Author
 
-Your Name | [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+Sumaya 
